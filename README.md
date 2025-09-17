@@ -1,1 +1,1 @@
-# This repository contains the solution to **LeetCode ProblemS** implemented in **C++**.  
+# This repository contains the solution to **LeetCode Problems** implemented in **C++**.  
