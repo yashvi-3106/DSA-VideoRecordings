@@ -1,8 +1,4 @@
-# This repository contains the solution to **LeetCode Problem 101: Symmetric Tree** implemented in **C++**.  
-
----
- 
-## LeetCode 101: Symmetric Tree (C++ Solution)
+ ## LeetCode 101: Symmetric Tree (C++ Solution)
 
 🎥 YouTube Video
 
@@ -10,3 +6,9 @@
 
 
 ---
+
+ ## LeetCode 83: LeetCode 83 | Remove Duplicates from Sorted List | C++ Linked List Solution Explained
+
+ 🎥 YouTube Video
+
+▶️ Watch the full explanation & coding walkthrough here: https://youtu.be/Uefsdwvv_n0
